@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6366f1,100:06b6d4&height=230&section=header&text=Muhammad%20Sarfaraz&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20%7C%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Sarfaraz+%F0%9F%91%8B;MERN+Stack+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+modern%2C+responsive+%26+scalable+apps;React+%E2%80%A2+Node+%E2%80%A2+Laravel+%E2%80%A2+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Sarfaraz+%F0%9F%91%8B;Full+Stack+Developer;Building+modern%2C+responsive+%26+scalable+apps;React+%E2%80%A2+Node+%E2%80%A2+Laravel+%E2%80%A2+MongoDB" alt="Typing SVG" />
 </a>
 
 <br/>
